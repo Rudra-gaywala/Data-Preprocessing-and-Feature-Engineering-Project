@@ -1,0 +1,6 @@
+CustomerID,Name,Age,Gender,Income,Purchases,Churn
+1,Amit,25,M,40000,5,0
+2,Neha,30,F,60000,8,1
+3,Ravi,22,M,35000,2,0
+4,Priya,35,F,80000,10,1
+5,Karan,28,M,50000,6,0
